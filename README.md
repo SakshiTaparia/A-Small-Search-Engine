@@ -1,4 +1,4 @@
-# A-Small-Search-Engine
+# Small Search Engine
 Building a basic data structure underlying search engines - an inverted index, to answer some simple search queries.
 
 Problem_Statement.pdf contains the details of the code and the format for all possible input queries.
